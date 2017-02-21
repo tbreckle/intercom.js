@@ -4,6 +4,6 @@
 	"description": "A client-side cross-window message broadcast library built on top of the HTML5 localStorage API. Edit",
 	"author": "DIY Co",
 	"homepage": "https://github.com/diy/intercom.js",
-	"license": "Apache-2.0"
+	"license": "Apache-2.0",
 	"repository": "diy/intercom.js"
 }
